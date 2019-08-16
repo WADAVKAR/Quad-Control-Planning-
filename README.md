@@ -1,4 +1,3 @@
-# Upenn MEAM620 Advanced Robotics, Project1
 
 In phase 1, I applied quintic trajectory planning and PID hover controller on position(xyz) and attitude(euler angles) for the quadrotor dynamic control so that it could follow path with accuracy and speed.
  
@@ -8,5 +7,5 @@ In phase 3, I post-processed the output of Astar/Dijkstra to reduce the trajecto
  
 In phase 4, I implemented control and trajectory generation alogorithm into a real world quadrotor Grazyflie 2.0 with VICON and ROS system for 3 tasks. I tried diffent trajectory like 3rd order minimum accleration and 7th order minimum snap as well as different constrains at waypoints like zero or continuous velocity.
 
-https://youtu.be/Vn3-uVWl6RQ ; https://youtu.be/dtDL0dvO6yI
+
 
